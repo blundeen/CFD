@@ -6,7 +6,6 @@ clear; clc; close all; format compact;
     Brandon Lundeen
 %}
 
-
 %% Parameters
 gamma   = 1.4;      % [-]
 R       = .287e3;   % [J/kg-K]
